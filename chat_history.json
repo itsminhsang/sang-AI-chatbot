@@ -1,0 +1,58 @@
+[
+  {
+    "user": "aloooooo",
+    "bot": "Chào anh/chị! Cảm ơn bạn đã gọi đến. Tôi rất vui khi có thể giúp đỡ gì đó cho bạn. Xin hỏi là bạn có vấn đề gì cần tôi trợ giúp hay chỉ đơn giản muốn nói chuyện?"
+  },
+  {
+    "user": "gợi ý thảo cầm viên",
+    "bot": "Xin chào! Thảo cầm viên có điểm trung bình là 3.2/5 dựa trên 87 lượt đánh giá.\n\nThảo cầm viên được biết đến với những giây phút thư giãn và thoải mái. Tuy nhiên, có một số vấn đề về dịch vụ và tiện nghi.\n\nNếu bạn đang tìm kiếm một nơi để nghỉ ngơi, có thể thử các gợi ý sau:\n\n1. Dinh độc lập (ĐG 3.4/5)\n2. Khu phố người hoa (ĐG 3.3/5)\n3. Hồ con rùa (ĐG 3.0/5)\n\nHy vọng những gợi ý trên sẽ giúp bạn tìm được nơi nghỉ ngơi phù hợp!"
+  },
+  {
+    "user": "gợi ý địa đạo củ chi",
+    "bot": "Chào anh/chị! Tôi hiểu bạn đang tìm kiếm gợi ý về du lịch, cụ thể là \"gợi ý địa đạo củ chi\". Tôi sẽ cung cấp cho bạn 3-5 gợi ý địa điểm phổ biến nhất:\n\n1. Chợ bến thành\n2. Khu phố cổ bến Nghé\n3. Bãi sau vũng tàu\n4. Thảo cầm viên (đã được giới thiệu trước đó)\n5. Dinh độc lập\n\nNếu bạn có nhu cầu chi tiết về một trong các địa điểm trên, vui lòng hỏi tôi và tôi sẽ giúp đỡ."
+  },
+  {
+    "user": "gợi ý cho tôi bãi sau vũng tàu",
+    "bot": "Bãi sau Vũng Tàu có điểm đánh giá trung bình là 3.1/5 dựa trên 80 lượt đánh giá. Nó không quá nổi bật nhưng vẫn được nhiều người yêu thích.\n\nGợi ý các bãi sau khác:\n\n* Dinh độc lập: ĐG 3.4/5\n* Thảo cầm viên: ĐG 3.2/5\n* Khu phố người hoa: ĐG 3.3/5"
+  },
+  {
+    "user": "gợi ý cho tôi địa điểm chợ bến thành",
+    "bot": "Chào! Chợ Bến Thành là một trong những chợ truyền thống nhất tại Sài Gòn, được biết đến với các loại hoa, trái cây, và các sản phẩm thủ công. Theo đánh giá của khách du lịch, chợ này được xếp hạng 3.0/5.\n\nNếu bạn đang tìm kiếm các địa điểm khác để ghé thăm, tôi có thể giới thiệu một số gợi ý như sau:\n\n1. Dinh Độc Lập - với đánh giá 3.4/5\n2. Thảo Cầm Viên - với đánh giá 3.2/5\n3. Khu Phố Người Hoa - với đánh giá 3.3/5\n\nHy vọng những gợi ý này sẽ giúp bạn có thêm nhiều lựa chọn cho chuyến du lịch của mình!"
+  },
+  {
+    "user": "gợi ý địa điểm ăn uống gần chợ bến thành",
+    "bot": "Chợ Bến Thành là một trong những khu phố ẩm thực quen thuộc tại Sài Gòn, với rating trung bình 3.0/5 từ 76 lượt đánh giá.\n\nNếu bạn tìm kiếm các gợi ý địa điểm ăn uống gần chợ Bến Thành, tôi có thể giới thiệu:\n\n1. Dinh Độc Lập - Rating 3.4/5\n2. Thảo Cầm Viên - Rating 3.2/5\n3. Khu Phố Người Hoa - Rating 3.3/5\n\nHy vọng những gợi ý trên sẽ giúp bạn tìm thấy những địa điểm ăn uống phù hợp tại Sài Gòn."
+  },
+  {
+    "user": "gợi ý địa điểm bến bạch đằng",
+    "bot": "Chào! Bạn đang tìm kiếm thông tin về Bến Bạch Đằng, đúng không? Theo các đánh giá của 87 người dùng, Bến Bạch Đằng có điểm trung bình là 2.9/5.\n\nNếu bạn muốn tìm kiếm những địa điểm du lịch khác, tôi sẽ giới thiệu cho bạn một số gợi ý tương tự:\n\n* Dinh độc lập (3.4/5)\n* Thảo Cầm Viên (3.2/5)\n* Khu Phố Người Hoa (3.3/5)\n\nHy vọng các gợi ý trên có thể giúp ích cho bạn trong chuyến hành trình du lịch sắp tới!"
+  },
+  {
+    "user": "gợi ý địa điểm có rating cao nhất xung quanh thành phố hồ chí minh",
+    "bot": "Xin chào! Tôi thấy bạn đang tìm kiếm gợi ý địa điểm có rating cao nhất xung quanh Thành phố Hồ Chí Minh. Tôi sẽ giới thiệu 3-5 địa điểm phổ biến nhất cho bạn:\n\n1. Khu Phố Cổ Bến Nghe - Đánh giá trung bình là 4.2/5\n2. Dinh Độc Lập - Đánh giá trung bình là 3.4/5\n3. Thảo Cầm Viên - Đánh giá trung bình là 3.2/5\n4. Chợ Bến Thành - Đánh giá trung bình là 3.0/5\n5. Bãi Sau Vũng Tàu - Đánh giá trung bình là 3.1/5\n\nNếu bạn muốn biết thêm về một trong những địa điểm trên, tôi sẵn sàng giúp đỡ! Vui vẻ!"
+  },
+  {
+    "user": "gợi ý cho tôi địa điểm ở Dinh độc lập nên làm gì",
+    "bot": "Dinh độc lập là một địa điểm du lịch được xếp hạng 3.4/5 dựa trên 89 lượt đánh giá. Đây là một địa điểm lý tưởng cho những người yêu thích sự độc lập và tự do.\n\nGợi ý cho bạn:\n\n* Thảo cầm viên (ĐG 3.2/5)\n* Khu phố người hoa (ĐG 3.3/5)\n* Hồ con rùa (ĐG 3.0/5)"
+  },
+  {
+    "user": "gợi ý cho tôi địa điểm ở Bãi sau vũng tàu nên làm gì",
+    "bot": "Xin chào! Bạn có thể tham khảo đánh giá của người dùng về bãi sau Vũng Tàu, với điểm trung bình là 3.1/5 dựa trên 80 lượt đánh giá.\n\nVề bãi sau Vũng Tàu, tôi có thể chia sẻ rằng đây là một địa điểm du lịch được yêu thích, tuy nhiên cũng có những hạn chế. Bạn có thể tham gia các hoạt động giải trí như tắm biển, chơi golf, hoặc simply thư giãn và ngắm nhìn cảnh đẹp.\n\nDưới đây là các gợi ý về bãi sau Vũng Tàu:\n\n1. Dinh độc lập (3.4/5) - Thảo cầm viên (3.2/5) - Khu phố người hoa (3.3/5)\n\n Hy vọng những thông tin trên sẽ giúp bạn có quyết định tốt nhất cho chuyến đi của mình!"
+  },
+  {
+    "user": "gợi ý địa điểm xung quanh thành phố hồ chí minh",
+    "bot": "Xin chào! Bạn đang tìm kiếm gợi ý về những địa điểm du lịch xung quanh Thành phố Hồ Chí Minh. Tôi sẽ giới thiệu 3-5 địa điểm phổ biến nhất cho bạn:\n\n1. Chợ Bến Thành - Đánh giá trung bình là 3.0/5\n2. Khu Phố Cổ Bến Nghe - Đánh giá trung bình là 4.2/5\n3. Bến Bạch Đằng - Đánh giá trung bình là 2.9/5\n4. Thảo Cầm Viên - Đánh giá trung bình là 3.2/5\n5. Bãi Sau Vũng Tàu - Đánh giá trung bình là 3.1/5\n\nNếu bạn muốn biết thêm về một trong những địa điểm trên, tôi sẵn sàng giúp đỡ!"
+  },
+  {
+    "user": "gợi ý địa điểm thảo Cầm viêN",
+    "bot": "Xin chào! Thảo Cầm Viên có xếp hạng 3.2/5 dựa trên 87 lượt đánh giá. Đây là một điểm tham quan được yêu thích, mang lại những trải nghiệm thú vị cho du khách.\n\nNếu bạn đang tìm kiếm các địa điểm tương tự Thảo Cầm Viên, tôi gợi ý các nơi sau:\n\n* Dinh độc lập với xếp hạng 3.4/5\n* Khu phố người hoa với xếp hạng 3.3/5\n* Hồ con rùa với xếp hạng 3.0/5"
+  },
+  {
+    "user": "1+1 bằng mấy",
+    "bot": "Vâng, 1 + 1 bằng 2!"
+  },
+  {
+    "user": "cho biết thắng cảnh ở sài gòn",
+    "bot": "Xin chào! Sài Gòn có rất nhiều thắng cảnh đẹp mắt. Tôi sẽ giới thiệu 3-5 địa điểm phổ biến nhất cho bạn:\n\n1. Thành phố Hồ Chí Minh - Đánh giá trung bình là 4.0/5\n2. Công viên Tây Ninh - Đánh giá trung bình là 4.1/5\n3. Khu Phố Cổ Bến Nghe - Đánh giá trung bình là 4.2/5\n4. Bến Bạch Đằng - Đánh giá trung bình là 2.9/5\n5. Thảo Cầm Viên - Đánh giá trung bình là 3.2/5\n\nNếu bạn muốn biết thêm về một trong những địa điểm trên, tôi sẵn sàng giúp đỡ!"
+  }
+]
